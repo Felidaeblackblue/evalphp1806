@@ -1,0 +1,39 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.liste{
+    list-style:none;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(10, 83, 112);
+    height: 40px;
+    font-size: 18px;
+}
+
+.liste a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(255, 217, 0);
+}
+
+.firstpart{
+    display: flex;
+    flex-direction: row;
+    }
+
+.picture{
+   justify-content: space-around;
+   padding: 15px;
+}  
+
+
+
+
+
+
